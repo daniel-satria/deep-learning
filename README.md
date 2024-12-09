@@ -9,3 +9,4 @@
 3. [Neural Network for Regression & Binary Classification](notebooks/3.regression_classification.ipynb)
 4. [Neural Network for Multiclass Classification & Optimization Strategy](notebooks/4.multiclass_classification.ipynb)
 5. [Optimizing a Neural Network](notebooks/5.opitimizing_neural_network.ipynb)
+6. [Implementation of Back-Propagation](notebooks/6.back_propagation.ipynb)
