@@ -11,3 +11,4 @@
 5. [Optimizing a Neural Network](notebooks/5.opitimizing_neural_network.ipynb)
 6. [Implementation of Back-Propagation](notebooks/6.back_propagation.ipynb)
 7. [Optimization Strategy - Improve Generalization & Optimization Methods](notebooks/7.optimization_strategy.ipynb)
+8. [Build a Charachter Generator](notebooks/8.char_generator.ipynb)
